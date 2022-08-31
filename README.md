@@ -1,16 +1,20 @@
-### Hi there 👋
+# dr Marek Jaskuła
+Hi, my name is Marek and I come from Poland. My major field of interest are backend web development, database engineering and application architecture. I really like coding in c#, especially I enjoy creating web apis in ASP.NET Core. Recently I'm investigating the Domain Driven Design approach and I strongly encourage You to do the same. 
 
-<!--
-**dr-marek-jaskula/dr-marek-jaskula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Main skills 
+* ASP.NET Core
+* Entity Framework Core 
+* SQL
+* Docker
 
-Here are some ideas to get you started:
+## Additional skills
+* Testing (unit, integrtion, performance)
+* Microsoft Azure
+* RabbitMQ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Soft skills
+* 🤗
+* 🤔
+* 😎
+
+- 📫 How to reach me: [dr-marek-jaskula](https://www.linkedin.com/in/dr-marek-jaskula/)
