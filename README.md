@@ -13,8 +13,3 @@ Hi, my name is Marek and I come from Poland. My major fields of interest are bac
 * Testing (unit, integrtion, performance)
 * Microsoft Azure
 * RabbitMQ
-
-## Soft skills
-* 🤗
-* 🤔
-* 😎
