@@ -8,7 +8,7 @@ My major fields of interest are backend web development, database engineering an
 * Entity Framework Core 
 * SQL
 * Testing (unit, integration, performance)
-* 
+
 ## Additional skills
 * Docker
 * Microsoft Azure
