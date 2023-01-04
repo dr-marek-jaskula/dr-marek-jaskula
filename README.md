@@ -1,5 +1,5 @@
 # dr Marek Jaskuła
-My major fields of interest are backend web development, database engineering and application architecture. I really like coding in c#, especially I enjoy creating web apis in ASP.NET Core. Recently, I'm investigating the Domain Driven Design approach and I strongly encourage You to do the same. 
+My major fields of interest are backend web development, database engineering and application architecture. I really like coding in c#, especially I enjoy creating web apis in ASP.NET Core. Recently, I'm investigating the Domain Driven Design approach. 
 
 📫 How to reach me: [dr-marek-jaskula](https://www.linkedin.com/in/dr-marek-jaskula/)
 
@@ -7,9 +7,9 @@ My major fields of interest are backend web development, database engineering an
 * ASP.NET Core
 * Entity Framework Core 
 * SQL
-* Docker
-
+* Testing (unit, integration, performance)
+* 
 ## Additional skills
-* Testing (unit, integrtion, performance)
+* Docker
 * Microsoft Azure
 * RabbitMQ
