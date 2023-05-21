@@ -10,6 +10,9 @@ My major fields of interest are backend web development, database engineering an
 * Testing (unit, integration, performance)
 
 ## Additional skills
-* Docker
 * Microsoft Azure
-* RabbitMQ
+* Docker
+
+## Currently investigating 
+* Domain Driven Design Architecture
+* Microservices Architecture
