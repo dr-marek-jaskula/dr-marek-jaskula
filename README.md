@@ -16,3 +16,7 @@ My major fields of interest are backend web development, database engineering an
 ## Currently investigating 
 * Domain Driven Design Architecture
 * Microservices Architecture
+
+## Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dr-marek-jaskula)](https://github.com/dr-marek-jaskula/github-readme-stats)
