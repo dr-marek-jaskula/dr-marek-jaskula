@@ -6,15 +6,17 @@ My major fields of interest are backend web development, database engineering an
 ## Main skills 
 * ASP.NET Core
 * Entity Framework Core 
-* SQL
+* SQL, Mongo
 * Testing (unit, integration, performance)
+* Domain Driven Design Architecture
+* Clean Architecture
 
 ## Additional skills
-* Microsoft Azure
 * Docker
+* Github workflows
 
 ## Currently investigating 
-* Domain Driven Design Architecture
+* Modular Monolith Architecture
 * Microservices Architecture
 
 ## Stats
