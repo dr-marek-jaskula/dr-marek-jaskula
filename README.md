@@ -16,6 +16,7 @@ My major fields of interest are backend web development, database engineering an
 * Github workflows
 
 ## Currently investigating 
+* Kubernetes
 * Modular Monolith Architecture
 * Microservices Architecture
 
